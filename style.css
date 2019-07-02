@@ -1,0 +1,101 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+  
+  .order-lg-13 {
+    order: 13;
+  }
+  
+  .order-lg-14 {
+    order: 14;
+  }
+  
+  .order-lg-15 {
+    order: 15;
+  }
+  
+  .order-lg-16 {
+    order: 16;
+  }
+  
+  .order-lg-17 {
+    order: 17;
+  }
+  
+  .order-lg-18 {
+    order: 18;
+  }
+  
+  .order-lg-19 {
+    order: 19;
+  }
+  
+  .order-lg-20 {
+    order: 20;
+  }
+  
+  .order-lg-21 {
+    order: 21;
+  }
+  
+  .order-lg-22 {
+    order: 22;
+  }
+  
+  .order-lg-23 {
+    order: 23;
+  }
+  
+  .order-lg-24 {
+    order: 24;
+  }
+}
+
+@media (min-width: 1200px) {
+  
+  .order-xl-13 {
+    order: 13;
+  }
+  
+  .order-xl-14 {
+    order: 14;
+  }
+  
+  .order-xl-15 {
+    order: 15;
+  }
+  
+  .order-xl-16 {
+    order: 16;
+  }
+  
+  .order-xl-17 {
+    order: 17;
+  }
+  
+  .order-xl-18 {
+    order: 18;
+  }
+  
+  .order-xl-19 {
+    order: 19;
+  }
+  
+  .order-xl-20 {
+    order: 20;
+  }
+  
+  .order-xl-21 {
+    order: 21;
+  }
+  
+  .order-xl-22 {
+    order: 22;
+  }
+  
+  .order-xl-23 {
+    order: 23;
+  }
+  
+  .order-xl-24 {
+    order: 24;
+  }
+}
